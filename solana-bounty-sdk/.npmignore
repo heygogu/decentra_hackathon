@@ -1,0 +1,53 @@
+# Source files (exclude TypeScript source, keep declarations)
+src/
+*.ts
+!*.d.ts
+
+# Tests
+tests/
+__tests__/
+*.test.ts
+*.spec.ts
+coverage/
+
+# Examples
+examples/
+
+# Documentation
+docs/
+SETUP_GUIDE.md
+QUICK_START.md
+
+# Config files
+tsconfig.json
+.eslintrc.js
+.prettierrc
+jest.config.js
+
+# Git
+.git/
+.gitignore
+.github/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Misc
+node_modules/
+.DS_Store
+.env
+.env.local
+.env.test
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# CI/CD
+.travis.yml
+.circleci/
+.gitlab-ci.yml

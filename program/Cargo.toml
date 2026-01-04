@@ -1,0 +1,17 @@
+
+[package]
+name = "program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "1.18"
+borsh = "0.10"
+base64ct = "=1.6.0"
+
+[lib]
+crate-type=["cdylib","lib"]
+
+[features]
+custom-panic=[]
+custom-heap=[]
