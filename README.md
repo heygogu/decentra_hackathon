@@ -1,7 +1,15 @@
+  Some of the hosted repos/programs are here
+  - https://www.npmjs.com/package/solana-bounty-sdk
+  - Solana Program - visit https://explorer.solana.com/address/GrDTkJbiCU8F9nQE3aqBbNt3tFnH5RHPNMbFJ9j6Hhzy?cluster=devnet for more info
+
+    
 ## Hey there
 
 - It is a group of three repos from hackathon participation organized by decentra cloud and nova consortium
 - You need to set up them individually
+
+
+
 
 # bounty bot server ..
 
